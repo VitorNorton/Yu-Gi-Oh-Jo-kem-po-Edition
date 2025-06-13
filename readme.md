@@ -14,9 +14,9 @@ Access the website and take your test through the link: :link:[Click here](https
 </p>
 
  # 🚀 The results
-
-<img src="./src/assets/images/screenshot.png" alt="Print do Projeto" width="400" />
-
+<div align="center">
+<img src="./src/assets/images/screenshot.png" alt="Print do Projeto" width="600" />
+</div>
 <br>
-
-<div align="right">Made by <a href="https://github.com/VitorNorton">KM</a>.</div>
+<br>
+<div align="right">Made by <a href="https://github.com/VitorNorton">V</a>.</div>
