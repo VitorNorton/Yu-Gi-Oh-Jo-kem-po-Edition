@@ -1,4 +1,4 @@
-# <img src="./src/assets/icons/card-back1.png" width="20"> Yu-Gi-Oh Jo-kem-po Edition
+# <img src="/src/assets/icons/card-back1.png" width="20"> Yu-Gi-Oh Jo-kem-po Edition
 
 Welcome to the Yu-Gi-Oh! Jo-Ken-Po Edition project! This game reimagines the classic rock-paper-scissors with a captivating Yu-Gi-Oh! twist. Challenge a virtual opponent in a thrilling match where iconic Yu-Gi-Oh! cards are used purely for their stunning visuals, adding an extra layer of excitement to every round.
 
@@ -15,7 +15,7 @@ Access the website and take your test through the link: :link:[Click here](https
 
  # 🚀 The results
 <div align="center">
-<img src="./src/assets/images/screenshot.png" alt="Print do Projeto" width="600" />
+<img src="/src/assets/images/screenshot.png" alt="Print do Projeto" width="600" />
 </div>
 <br>
 <br>
